@@ -1,0 +1,14 @@
+C:\Users\Al-Quds\source\repos\CS_LINQ_A01\bin\Debug\net9.0\CS_LINQ_A01.exe
+C:\Users\Al-Quds\source\repos\CS_LINQ_A01\bin\Debug\net9.0\CS_LINQ_A01.deps.json
+C:\Users\Al-Quds\source\repos\CS_LINQ_A01\bin\Debug\net9.0\CS_LINQ_A01.runtimeconfig.json
+C:\Users\Al-Quds\source\repos\CS_LINQ_A01\bin\Debug\net9.0\CS_LINQ_A01.dll
+C:\Users\Al-Quds\source\repos\CS_LINQ_A01\bin\Debug\net9.0\CS_LINQ_A01.pdb
+C:\Users\Al-Quds\source\repos\CS_LINQ_A01\obj\Debug\net9.0\CS_LINQ_A01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Al-Quds\source\repos\CS_LINQ_A01\obj\Debug\net9.0\CS_LINQ_A01.AssemblyInfoInputs.cache
+C:\Users\Al-Quds\source\repos\CS_LINQ_A01\obj\Debug\net9.0\CS_LINQ_A01.AssemblyInfo.cs
+C:\Users\Al-Quds\source\repos\CS_LINQ_A01\obj\Debug\net9.0\CS_LINQ_A01.csproj.CoreCompileInputs.cache
+C:\Users\Al-Quds\source\repos\CS_LINQ_A01\obj\Debug\net9.0\CS_LINQ_A01.dll
+C:\Users\Al-Quds\source\repos\CS_LINQ_A01\obj\Debug\net9.0\refint\CS_LINQ_A01.dll
+C:\Users\Al-Quds\source\repos\CS_LINQ_A01\obj\Debug\net9.0\CS_LINQ_A01.pdb
+C:\Users\Al-Quds\source\repos\CS_LINQ_A01\obj\Debug\net9.0\CS_LINQ_A01.genruntimeconfig.cache
+C:\Users\Al-Quds\source\repos\CS_LINQ_A01\obj\Debug\net9.0\ref\CS_LINQ_A01.dll

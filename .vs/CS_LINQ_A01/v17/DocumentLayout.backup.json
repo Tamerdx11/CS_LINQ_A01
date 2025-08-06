@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Al-Quds\\source\\repos\\CS_LINQ_A01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35828A0B-F94A-4A2A-952E-3A3DAADA7E09}|CS_LINQ_A01.csproj|c:\\users\\al-quds\\source\\repos\\cs_linq_a01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35828A0B-F94A-4A2A-952E-3A3DAADA7E09}|CS_LINQ_A01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35828A0B-F94A-4A2A-952E-3A3DAADA7E09}|CS_LINQ_A01.csproj|c:\\users\\al-quds\\source\\repos\\cs_linq_a01\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35828A0B-F94A-4A2A-952E-3A3DAADA7E09}|CS_LINQ_A01.csproj|solutionrelative:listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LIstGenerators.cs",
+              "DocumentMoniker": "C:\\Users\\Al-Quds\\source\\repos\\CS_LINQ_A01\\LIstGenerators.cs",
+              "RelativeDocumentMoniker": "LIstGenerators.cs",
+              "ToolTip": "C:\\Users\\Al-Quds\\source\\repos\\CS_LINQ_A01\\LIstGenerators.cs",
+              "RelativeToolTip": "LIstGenerators.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwOMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:16:15.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Al-Quds\\source\\repos\\CS_LINQ_A01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Al-Quds\\source\\repos\\CS_LINQ_A01\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:53:33.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
