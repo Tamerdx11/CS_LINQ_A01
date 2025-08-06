@@ -24,8 +24,7 @@ internal class Program
         Console.WriteLine(firstOutOfStock);
 
         /// 2. the first product whose Price > 1000.
-        // throws InvalidOperationException if no element is found
-        var first = ProductList.Where(p => p.UnitPrice > 1000).First();
+        var first = ProductList.Where(p => p.UnitPrice > 1000).First(); // throws InvalidOperationException if no element is found
         Console.WriteLine(first);
 
         /// 3. second number greater than 5 
